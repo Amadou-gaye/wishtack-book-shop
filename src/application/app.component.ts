@@ -1,6 +1,5 @@
 import { Component } from '@angular/core';
 import { Book } from './book/book';
-
 @Component({
     selector: 'wt-app',
     templateUrl: './app.component.html',
